@@ -48,3 +48,6 @@
 ![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625170800463.png?raw=true)
 ![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625172557174.png?raw=true)
 ![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625172616639.png?raw=true)
+
+9. 项目难度
+   我认为项目的难点是服务器的部署，由于服务器之前搞得容器文件不存在，需要进行docker compose进行容器化部署。接下来就是实现网关进行聚合文档
