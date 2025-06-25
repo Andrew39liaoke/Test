@@ -39,3 +39,9 @@
           predicates:
             - Path=/api/user/**
 8.实现效果
+![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625160708802.png?raw=true)
+![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625162158359.png?raw=true)
+![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625162238513.png?raw=true)
+![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625162253207.png?raw=true)
+![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625162304049.png?raw=true)
+![image04](https://github.com/Andrew39liaoke/Test/blob/main/image-20250625170800463.png?raw=true)
